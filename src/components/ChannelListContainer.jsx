@@ -40,10 +40,19 @@ const ChannelListContainer = () => {
                          type = "teams"
                         />
                     )}
+                    Preview = { (previewProps) => (
+
+                    <TeamChannelPreview
+                    {
+                        ...previewProps
+                    }
+                    type = "teams"
+                    />
+                    )}
                     />
             </div>
         </>
-       );
+    );
 }
 
 export default ChannelListContainer;
