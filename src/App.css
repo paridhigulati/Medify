@@ -1804,7 +1804,7 @@ root {
   }
   
   @media screen and (max-width: 650px) {
-    .channerl-list__container-toggle {
+    .channel-list__container-toggle {
       right: -3%;
     }
   }
@@ -1814,7 +1814,7 @@ root {
       width: 150px;
     }
   
-    .channerl-list__container-toggle {
+    .channel-list__container-toggle {
       right: -5%;
     }
   }
