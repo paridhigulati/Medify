@@ -10,6 +10,7 @@ A fully responsive realtime chat application for health professionals with direc
 - Framework - ExpressJs
 - Frontend - ReactJs, HTML, CSS, Javascript
 - SMS sending - Twilio
+-  Note : SMS can be sent to only Twilio verified numbers as I am not using the paid service.
 - Deployment - Heroku
 
 ![Screenshot 2021-09-25 124722](https://user-images.githubusercontent.com/54714471/134762727-52d82302-78a2-4fff-9b0e-f010af96d503.jpg)
