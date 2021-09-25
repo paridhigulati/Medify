@@ -3,7 +3,7 @@
 
 A fully responsive realtime chat application for health professionals with direct and group chats, emojis & reactions, built-in GIF support and SMS notification along with the ability to edit & edit delete messages and use specialized commands
 
-![signup](https://user-images.githubusercontent.com/54714471/134761436-0862735f-4eca-48db-94af-9e51150d18e8.jpg)
+![signup111](https://user-images.githubusercontent.com/54714471/134763348-7c1137d5-3474-4576-a269-97bb3063d783.jpg)
 
 ## Technology Stack
 - Server Environment - NodeJs
