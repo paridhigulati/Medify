@@ -9,7 +9,7 @@ A fully responsive realtime chat application for health professionals with direc
 - Server Environment - NodeJs
 - Framework - ExpressJs
 - Frontend - ReactJs, HTML, CSS, Javascript
-- SMS sending - Twilio
+- SMS service - Twilio
 -  Note : SMS can be sent to only Twilio verified numbers as I am not using the paid service.
 - Deployment - Heroku
 
